@@ -1,0 +1,6 @@
+[submodule "llama"]
+	path = llama
+	url = https://github.com/facebookresearch/llama.git
+[submodule "transformers"]
+	path = transformers
+	url = https://github.com/huggingface/transformers.git
